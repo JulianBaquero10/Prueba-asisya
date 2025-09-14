@@ -1,0 +1,20 @@
+.styles {
+  --display---llarge: 32px;
+  --headline---medium: 24px;
+  --title---medium-: 18px;
+  --body-large-: 16px;
+  --body-medium-: 14px;
+  --body-small: 12px;
+  --body-xs: 8px;
+  --label-large-: 16px;
+  --label-medium-: 14px;
+}
+.display---llarge { font-size: var(--display---llarge); line-height: 1.1875; font-weight: NaN; }
+.headline---medium { font-size: var(--headline---medium); line-height: 1.291667; font-weight: NaN; }
+.title---medium- { font-size: var(--title---medium-); line-height: 1.388889; font-weight: 500; }
+.body-large- { font-size: var(--body-large-); line-height: 1.5; font-weight: 400; }
+.body-medium- { font-size: var(--body-medium-); line-height: 1.5; font-weight: 400; }
+.body-small { font-size: var(--body-small); line-height: 1.583333; font-weight: 400; }
+.body-xs { font-size: var(--body-xs); line-height: 1.75; font-weight: 400; }
+.label-large- { font-size: var(--label-large-); line-height: 1.375; font-weight: NaN; }
+.label-medium- { font-size: var(--label-medium-); line-height: 1.357143; font-weight: NaN; }

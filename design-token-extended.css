@@ -1,0 +1,7 @@
+.default {
+  --conerner-radius: 12px;
+}
+.round {
+  --conerner-radius: 9999px;
+}
+.conerner-radius { border-radius: var(--conerner-radius); }

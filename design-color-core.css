@@ -1,0 +1,88 @@
+.dark {
+  --primary: #E83C5A;
+  --on-primary: #FFFFFF;
+  --surface-default: #121212;
+  --surface-variant: #1E1E1E;
+  --surface-high: #2A2A2A;
+  --on-surface-primary: #FFFFFF;
+  --on-surface-secondary: #B3B3B3;
+  --on-surface-inverse: #000000;
+  --outline: #3A3A3C;
+  --outline-variant: #48484A;
+  --success: #34C759;
+  --on-success: #000000;
+  --success-copntainer-surface: #1E2F24;
+  --success-container-outline: #4CD38A;
+  --on-success: #000000;
+  --warning: #FFD60A;
+  --on-warning: #000000;
+  --error: #FF453A;
+  --on-error: #FFFFFF;
+  --info: #0A84FF;
+  --on-info: #FFFFFF;
+  --primary: #FF3B30;
+  --on-primary: #FFFFFF;
+  --primary-variant: #FF5F52;
+  --complement-1: #8FCCCE;
+  --complement-2: #539DD1;
+  --complement-3: #DF685C;
+  --complement-4: #535FA4;
+}
+.light {
+  --primary: #E83C5A;
+  --on-primary: #FFFFFF;
+  --surface-default: #FFFFFF;
+  --surface-variant: #F5F5F5;
+  --surface-high: #E0E0E0;
+  --on-surface-primary: #121212;
+  --on-surface-secondary: #4A4A4A;
+  --on-surface-inverse: #FFFFFF;
+  --outline: #C4C4C6;
+  --outline-variant: #D4D4D6;
+  --success: #34C759;
+  --on-success: #1E1E1E;
+  --success-copntainer-surface: #F1FCF6;
+  --success-container-outline: #A3D9BE;
+  --on-success: #1E1E1E;
+  --warning: #FFD60A;
+  --on-warning: #1E1E1E;
+  --error: #FF453A;
+  --on-error: #FFFFFF;
+  --info: #8BC3FE;
+  --on-info: #1E1E1E;
+  --primary: #FF3B30;
+  --on-primary: #FFFFFF;
+  --primary-variant: #FF5F52;
+  --complement-1: #8FCCCE;
+  --complement-2: #539DD1;
+  --complement-3: #DF685C;
+  --complement-4: #535FA4;
+}
+.primary { color: var(--primary); }
+.on-primary { color: var(--on-primary); }
+.surface-default { background-color: var(--surface-default); }
+.surface-variant { background-color: var(--surface-variant); }
+.surface-high { background-color: var(--surface-high); }
+.on-surface-primary { background-color: var(--on-surface-primary); }
+.on-surface-secondary { background-color: var(--on-surface-secondary); }
+.on-surface-inverse { background-color: var(--on-surface-inverse); }
+.outline { background-color: var(--outline); }
+.outline-variant { background-color: var(--outline-variant); }
+.success { background-color: var(--success); }
+.on-success { background-color: var(--on-success); }
+.success-copntainer-surface { background-color: var(--success-copntainer-surface); }
+.success-container-outline { background-color: var(--success-container-outline); }
+.on-success { background-color: var(--on-success); }
+.warning { background-color: var(--warning); }
+.on-warning { background-color: var(--on-warning); }
+.error { background-color: var(--error); }
+.on-error { background-color: var(--on-error); }
+.info { background-color: var(--info); }
+.on-info { background-color: var(--on-info); }
+.primary { background-color: var(--primary); }
+.on-primary { background-color: var(--on-primary); }
+.primary-variant { background-color: var(--primary-variant); }
+.complement-1 { color: var(--complement-1); }
+.complement-2 { color: var(--complement-2); }
+.complement-3 { color: var(--complement-3); }
+.complement-4 { color: var(--complement-4); }
